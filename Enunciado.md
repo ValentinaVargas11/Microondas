@@ -1,4 +1,4 @@
-0. Enunciado del Trabajo Práctico
+Enunciado del Trabajo Práctico
 
 OBJETIVO
 
